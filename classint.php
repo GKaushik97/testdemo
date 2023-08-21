@@ -1,6 +1,6 @@
 <?php
 /**
- * 
+ * To display the integer values and string values seperately
  */
 class DataArray 
 {
